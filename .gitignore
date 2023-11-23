@@ -1,0 +1,19 @@
+# Ignore Anaconda-related folders and files
+conda-meta/
+DLLs/
+etc/
+include/
+Lib/
+Library/
+libs/
+Scripts/
+share/
+tcl/
+Tools/
+.nonadmin
+*.dll
+*.exe
+*.pdb
+*.xml
+*.iml
+LICENSE_PYTHON.txt
